@@ -1,0 +1,7 @@
+"scourge1"
+{
+	"base"		"nutscript"
+	"title"		"NS: Scourge"
+	"base"		"nutscript"
+	"menusystem"	"1"
+}
