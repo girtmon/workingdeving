@@ -1,0 +1,17 @@
+ITEM.name = "Uncertainty"
+ITEM.desc = "A strange book."
+ITEM.price = 25
+ITEM.flag = "S"
+ITEM.category = "Literature"
+
+ITEM.iconCam = {
+	pos = Vector(0, 0, 200),
+	ang = Angle(90, 0, 180),
+	fov = 3.888,
+}
+
+
+ITEM.contents = [[
+<h1>Is your existance even true?</h1>
+<p>
+]]
